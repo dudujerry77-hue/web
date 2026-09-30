@@ -1,0 +1,13 @@
+{
+  "name": "grubglass",
+  "version": "1.0.0",
+  "private": true,
+  "description": "GrubGlass storefront + backend (Nexora integration)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
